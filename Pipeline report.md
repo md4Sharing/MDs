@@ -1,6 +1,6 @@
 # Report on Pipeline Types, Problems, Solutions, Practical Examples, and GPU Pipelines
 
-> <img src="https://drive.google.com/uc?id=1VcC1y19Uitt5LdvLu0Bxwi9i0cUAEd_j" width="200px" />
+> <img src="https://drive.google.com/uc?id=1VcC1y19Uitt5LdvLu0Bxwi9i0cUAEd_j" width="220px" />
 
 ### __Introduction__
 
