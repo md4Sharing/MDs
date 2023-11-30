@@ -1,10 +1,11 @@
-> <img align="left" width="200" src="https://drive.google.com/uc?id=1iB3qrS38w0hALDYzlGt9Finyx49LJinT" />
+> <img align="left" width="200" src="https://drive.google.com/uc?id=1L-MMadac-NQv4La-jgD8BMphFXvCySCk"/>
 > <BR>
 > <BR>
 > <BR>
 > <BR>
 > 
-> ___Adding summary for math theory behind this code soon.___
+> Started.
+> <BR>
 > <BR>
 > <BR>
 > <BR>
