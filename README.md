@@ -4,8 +4,8 @@
 > <BR>
 > <BR>
 > <BR>
-> hey, you look Awesome today.
+> hey, you look awesome today.
 > <BR>
 > <BR>
 > <BR>
-> <BR>
+
