@@ -1,6 +1,6 @@
 # Report on Pipeline Types, Problems, Solutions, Practical Examples, and GPU Pipelines
 
-> <img src="https://file.notion.so/f/f/5dd1f4df-fe4c-40cd-af28-7ddfa487876c/2fd32cdd-123c-4955-b480-060c70e521b7/sticke3r.webp?id=892e170a-bfe6-408e-9fb4-a18d8660137b&table=block&spaceId=5dd1f4df-fe4c-40cd-af28-7ddfa487876c&expirationTimestamp=1701244800000&signature=kN1iyQCenwhO9a1bgHeOtgkYIQKg_skw4EmnKmL-puA&downloadName=sticke3r.webp" alt="Report%20on%20Pipeline%20Types,%20Problems,%20Solutions,%20Pra%2017523904690d490d94f63da4f420949c/emojibest_com_AnimatedSticker_(4)dd.gif" width="200px" /> <BR>
+> <img src="https://drive.google.com/uc?id=1VcC1y19Uitt5LdvLu0Bxwi9i0cUAEd_j" width="200px" /> <BR>
 
 ### __Introduction__
 
